@@ -30,9 +30,9 @@
 
 |[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
 | --- | :-: |
-| [1. Объединить отсортированные последовательности](./contest_02/1/main.cpp) | ![](./image/cpp.png) |
-| [2. Валидатор скобочной последовательности](./contest_03/2/main.cpp) | ![](./image/cpp.png) |
-| [9. Подходящая пара чисел](./contest_03/9/main.go) | ![](./image/go.png) |
+| [1. Объединить отсортированные последовательности](./contest_02/01/main.cpp) | ![](./image/cpp.png) |
+| [2. Валидатор скобочной последовательности](./contest_03/02/main.cpp) | ![](./image/cpp.png) |
+| [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./image/go.png) |
 
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/4/) |  |
 | --- | :-: |
