@@ -30,3 +30,13 @@
 
 |[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
 | --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_02/1/main.cpp) | ![](./image/cpp.png) |
+| [2. Валидатор скобочной последовательности](./contest_03/2/main.cpp) | ![](./image/cpp.png) |
+| [9. Подходящая пара чисел](./contest_03/9/main.go) | ![](./image/go.png) |
+
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/4/) |  |
+| --- | :-: |
+| [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./image/go.png) |
+| [2. Количество выполненных задач](./contest_04/02/main.cpp) | ![](./image/cpp.png) |
+| [3. Титаник](./contest_04/03/main.cpp) | ![](./image/cpp.png) |
+| [4. Титаник](./contest_04/04/main.go) | ![](./image/go.png) |
