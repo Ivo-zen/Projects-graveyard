@@ -27,4 +27,6 @@
 | [9. Функция. Счастливый билет](./contest_02/09/main.go) | ![](./image/go.png) |
 | [10. Функция. Сдвиг элементов массива](./contest_02/10/main.go) | ![](./image/go.png) |
 | [11. Функция. Валидатор судоку](./contest_02/11/main.go) | ![](./image/go.png) |
-| [2. Функция. Сапёр (поле)](./contest_02/12/main.go) | ![](./image/go.png) |
+
+|[Контест 3](https://contest.yandex.ru/contest/52676/problems/) |  |
+| --- | :-: |
